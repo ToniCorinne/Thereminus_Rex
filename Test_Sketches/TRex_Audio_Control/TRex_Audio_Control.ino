@@ -1,3 +1,5 @@
+//Modified from the original code in Teensyduino>Examples>Time>TimeAlarmExample
+
 #include <TimeLib.h>
 #include <TimeAlarms.h>
 
